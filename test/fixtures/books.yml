@@ -1,0 +1,29 @@
+kindred:
+  title: Kindred
+  author: butler
+  description: A good sci-fi book
+  publication_year: 1979
+parable:
+  title: Parable of the Sower
+  author: butler
+  description: Fire drugs?
+  publication_year: 1993
+poodr:
+  title: Practical Object Oriented Design in Ruby
+  author: metz
+  description: A good book on programming
+  publication_year: 2012
+old:
+  title: Old
+  author: metz
+  description: So Old
+  publication_year: 1000
+unpublished:
+  title: Practical Object Oriented Design in Ruby
+  author: chris
+  description: A good book on programming
+gardening:
+  title: Practical Object Oriented Design in Raised Beds
+  author: chris
+  description: A good book on gardening
+  publication_year: 2012

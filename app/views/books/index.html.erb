@@ -1,0 +1,12 @@
+<h2>Books List</h2>
+<ul>
+<% @books.each do |book| %>
+  <li>
+      <span class="title">
+        <%= link_to book.title, book_path(book[:id]),
+        class: 'title-link' %>
+      </span>
+      by <%= book.author.name %>
+  </li>
+<% end %>
+</ul>
